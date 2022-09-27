@@ -16,9 +16,9 @@ Weight in line is a strongly opinionated queuing system for your e-commerce webs
 
 ### Requirements
 
-* Queue can be activated for specific products
-* Users in the queue are given encouraging feedback to keep them in the queue
-* Users are at the front of the queue can see the product page
+* Active queues guard main website from traffic due to popular products
+* Queuing users are given encouraging feedback to keep them in the queue
+* Our customers can active queueing at any time and a self-service basis
 
 ### User Stories
 
