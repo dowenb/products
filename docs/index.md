@@ -1,7 +1,5 @@
 # Product Catalog
 
-Products:
-* one
-* two
-* four
-* 
+## Weight in line
+
+</weight_in_line>
