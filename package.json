@@ -1,0 +1,11 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "Catalog of Fake Products to be used for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
