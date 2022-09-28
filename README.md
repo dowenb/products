@@ -23,6 +23,8 @@ I am actively seeking open source contributions form the community! This could i
 * Promoting the project and getting others involved
 * Supporting other volunteers to contribute
 
+<a href="https://discord.com/invite/R5Nv3gFs8a">💬 If you have questions, need help or just want to discuss all things testing, join our Discord server!</a>
+
 ## Author and project lead
 
 This project was conceived by Ben Dowen, @FullSnackTester on Twitter. Feel free to @ me or DM me on Twitter if you have questions or want to get involved.
